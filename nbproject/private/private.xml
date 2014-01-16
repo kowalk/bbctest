@@ -3,9 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/bbsearch/index.php</file>
-            <file>file:/var/www/bbsearch/lib/search.class.php</file>
-            <file>file:/var/www/bbsearch/tpl/index.tpl.php</file>
+            <file>file:/var/www/bbcsearch/css/style.css</file>
+            <file>file:/var/www/bbcsearch/index.php</file>
+            <file>file:/var/www/bbcsearch/lib/search.class.php</file>
+            <file>file:/var/www/bbcsearch/tpl/index.tpl.php</file>
+            <file>file:/var/www/bbcsearch/tpl/header.tpl.php</file>
+            <file>file:/var/www/bbcsearch/tpl/sresults.tpl.php</file>
+            <file>file:/var/www/bbcsearch/lib/input.class.php</file>
         </group>
     </open-files>
 </project-private>

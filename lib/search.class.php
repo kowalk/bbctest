@@ -8,6 +8,7 @@ class Search{
     }
     
     public function doSearch(){
+        $this->phrase = str_replace('/', "", $this->phrase);
         $searchUrl = str_replace("#!phrase!#", $this->phrase, $this->feedUrl);
         
         $resultJson = file_get_contents($searchUrl);
