@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;        
+}
+
+#results-container{
+    padding: 10px;
+}
+
+    .results-count{
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+    
+    .result-row{
+        margin-bottom: 10px;
+    }
+    
+    .r-title{
+        font-weight: bold;
+    }
